@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+._*
+
+# Editors
+.vscode/
+*.swp
+*~
+
+# Claude Code personal settings
+.claude/settings.local.json
